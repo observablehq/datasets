@@ -1,0 +1,18 @@
+{
+  "name": "@exdato/mtcars",
+  "version": "0.0.0",
+  "description": "Data on car road tests from Motor Trend magazine, 1974.",
+  "keywords": [
+    "datasets"
+  ],
+  "homepage": "https://github.com/exdato/mtcars",
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exdato/mtcars.git"
+  }
+}
