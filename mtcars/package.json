@@ -1,0 +1,13 @@
+{
+  "name": "@observablehq/mtcars",
+  "version": "0.0.0",
+  "description": "Data on car road tests from Motor Trend magazine, 1974.",
+  "keywords": ["datasets"],
+  "homepage": "https://github.com/observablehq/datasets/tree/master/mtcars",
+  "repository": "https://github.com/observablehq/datasets/tree/master/mtcars",
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  }
+}
