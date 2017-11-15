@@ -1,0 +1,13 @@
+{
+  "name": "@observablehq/iris",
+  "version": "0.0.0",
+  "description": "Edgar Anderson’s iris data.",
+  "keywords": ["datasets"],
+  "homepage": "https://github.com/observablehq/datasets/tree/master/iris",
+  "repository": "https://github.com/observablehq/datasets/tree/master/iris",
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  }
+}
