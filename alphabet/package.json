@@ -1,0 +1,13 @@
+{
+  "name": "@observablehq/alphabet",
+  "version": "0.0.0",
+  "description": "The frequency of letters in the English language.",
+  "keywords": ["datasets"],
+  "homepage": "https://github.com/observablehq/datasets/tree/master/alphabet",
+  "repository": "https://github.com/observablehq/datasets/tree/master/alphabet",
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  }
+}
