@@ -1,0 +1,13 @@
+{
+  "name": "@observablehq/miserables",
+  "version": "0.0.0",
+  "description": "Character co-occurrence in Victor Hugo’s Les Misérables.",
+  "keywords": ["datasets"],
+  "homepage": "https://github.com/observablehq/datasets/tree/master/miserables",
+  "repository": "https://github.com/observablehq/datasets/tree/master/miserables",
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  }
+}
