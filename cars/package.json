@@ -1,0 +1,13 @@
+{
+  "name": "@observablehq/cars",
+  "version": "0.0.0",
+  "description": "Data on cars, 1970-1982.",
+  "keywords": ["datasets"],
+  "homepage": "https://github.com/observablehq/datasets/tree/master/cars",
+  "repository": "https://github.com/observablehq/datasets/tree/master/cars",
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  }
+}
