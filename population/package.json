@@ -1,0 +1,13 @@
+{
+  "name": "@observablehq/population",
+  "version": "0.0.0",
+  "description": "American Community Survey, 2014 5-Year estimate of population by county.",
+  "keywords": ["datasets"],
+  "homepage": "https://github.com/observablehq/datasets/tree/master/population",
+  "repository": "https://github.com/observablehq/datasets/tree/master/population",
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  }
+}
