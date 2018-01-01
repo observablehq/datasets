@@ -1,0 +1,13 @@
+{
+  "name": "@observablehq/d3",
+  "version": "0.0.0",
+  "description": "The D3 package hierarchy.",
+  "keywords": ["datasets"],
+  "homepage": "https://github.com/observablehq/datasets/tree/master/d3",
+  "repository": "https://github.com/observablehq/datasets/tree/master/d3",
+  "license": "ISC",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://bost.ocks.org/mike"
+  }
+}
