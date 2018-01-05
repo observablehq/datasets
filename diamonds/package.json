@@ -1,6 +1,6 @@
 {
   "name": "@observablehq/diamonds",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Various factors of over 50,000 diamonds.",
   "keywords": ["datasets"],
   "homepage": "https://github.com/observablehq/datasets/tree/master/diamonds",

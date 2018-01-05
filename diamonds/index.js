@@ -22,7 +22,7 @@ for (let i = 0; i < n; ++i) {
     price: price[i],
     x: x[i],
     y: y[i],
-    z: z[i],
+    z: z[i]
   };
 }
 data.columns = [
@@ -35,7 +35,7 @@ data.columns = [
   "price",
   "x",
   "y",
-  "z",
+  "z"
 ];
 return data;
 });
