@@ -1,6 +1,6 @@
 {
   "name": "@observablehq/dji",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dow Jones Industrial Average daily data from January 2, 1990 to October 1, 2010.",
   "keywords": ["datasets"],
   "homepage": "https://github.com/observablehq/datasets/tree/master/dji",
