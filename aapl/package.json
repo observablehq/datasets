@@ -1,8 +1,10 @@
 {
   "name": "@observablehq/aapl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Apple Inc. daily stock price from April 24, 2007 to May 1, 2012.",
-  "keywords": ["datasets"],
+  "keywords": [
+    "datasets"
+  ],
   "homepage": "https://github.com/observablehq/datasets/tree/master/aapl",
   "repository": "https://github.com/observablehq/datasets/tree/master/aapl",
   "license": "ISC",
