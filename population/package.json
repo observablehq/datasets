@@ -1,8 +1,10 @@
 {
   "name": "@observablehq/population",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "American Community Survey, 2014 5-Year estimate of population by county.",
-  "keywords": ["datasets"],
+  "keywords": [
+    "datasets"
+  ],
   "homepage": "https://github.com/observablehq/datasets/tree/master/population",
   "repository": "https://github.com/observablehq/datasets/tree/master/population",
   "license": "ISC",
