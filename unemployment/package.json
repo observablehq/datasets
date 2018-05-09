@@ -1,8 +1,10 @@
 {
   "name": "@observablehq/unemployment",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "August, 2016 unemployment rates from the Bureau of Labor Statistics.",
-  "keywords": ["datasets"],
+  "keywords": [
+    "datasets"
+  ],
   "homepage": "https://github.com/observablehq/datasets/tree/master/unemployment",
   "repository": "https://github.com/observablehq/datasets/tree/master/unemployment",
   "license": "ISC",
