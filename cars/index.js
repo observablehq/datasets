@@ -405,7 +405,8 @@ define(function() {
    {Name:"vw pickup",Miles_per_Gallon:44,Cylinders:4,Displacement:97,Horsepower:52,Weight_in_lbs:2130,Acceleration:24.6,Year:1982,Origin:"Europe"},
    {Name:"dodge rampage",Miles_per_Gallon:32,Cylinders:4,Displacement:135,Horsepower:84,Weight_in_lbs:2295,Acceleration:11.6,Year:1982,Origin:"USA"},
    {Name:"ford ranger",Miles_per_Gallon:28,Cylinders:4,Displacement:120,Horsepower:79,Weight_in_lbs:2625,Acceleration:18.6,Year:1982,Origin:"USA"},
-   {Name:"chevy s-10",Miles_per_Gallon:31,Cylinders:4,Displacement:119,Horsepower:82,Weight_in_lbs:2720,Acceleration:19.4,Year:1982,Origin:"USA"}
+   {Name:"chevy s-10",Miles_per_Gallon:31,Cylinders:4,Displacement:119,Horsepower:82,Weight_in_lbs:2720,Acceleration:19.4,Year:1982,Origin:"USA"},
+   {Name:"volkswagen golf sportwagen tdi",Miles_per_Gallon:45,Cylinders:4,Displacement:122,Horsepower:150,Weight_in_lbs:3200,Acceleration:16.5,Year:2015,Origin:"Europe"}
   ];
   data.columns = Object.keys(data[0]);
   return data;
